@@ -1,5 +1,4 @@
 def fizzbuzz(int)
-  int = 5
   if int % 3 == 0 # if the number int is divisible by 3 
   puts "fizzbuzz" # Go Fizz
   elsif int % 5 == 0 
