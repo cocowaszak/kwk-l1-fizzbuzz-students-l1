@@ -10,3 +10,4 @@ end
 
 fizzbuzz(3) # => you should see a return of "Fizz"
 fizzbuzz(5) # => you should see a return of nil
+fizzbuzz() #=> you should get an Argument Error
