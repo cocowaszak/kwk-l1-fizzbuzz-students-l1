@@ -10,3 +10,4 @@ end
 
 fizzbuzz(45) # => you should see a return of "Fizz"
 fizzbuzz(5) # => you should see a return of nil
+fizzbuzz(7) # => you should see a return of nil
