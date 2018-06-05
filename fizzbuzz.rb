@@ -8,5 +8,5 @@ puts "fizz"
 end 
 end 
 
-fizzbuzz(3) # => you should see a return of "Fizz"
+fizzbuzz(45) # => you should see a return of "Fizz"
 fizzbuzz(5) # => you should see a return of nil
